@@ -1,0 +1,7 @@
+/* Tailwind layer directives */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import theme variables for non-Tailwind usage */
+@import "./styles/theme.css";
